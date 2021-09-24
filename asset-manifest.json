@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Mint/static/css/main.bad0f2f2.chunk.css",
-    "main.js": "/Mint/static/js/main.99677b56.chunk.js",
-    "main.js.map": "/Mint/static/js/main.99677b56.chunk.js.map",
+    "main.js": "/Mint/static/js/main.4f358951.chunk.js",
+    "main.js.map": "/Mint/static/js/main.4f358951.chunk.js.map",
     "runtime-main.js": "/Mint/static/js/runtime-main.f9ffe72e.js",
     "runtime-main.js.map": "/Mint/static/js/runtime-main.f9ffe72e.js.map",
-    "static/js/2.daa53319.chunk.js": "/Mint/static/js/2.daa53319.chunk.js",
-    "static/js/2.daa53319.chunk.js.map": "/Mint/static/js/2.daa53319.chunk.js.map",
+    "static/js/2.ae604d9c.chunk.js": "/Mint/static/js/2.ae604d9c.chunk.js",
+    "static/js/2.ae604d9c.chunk.js.map": "/Mint/static/js/2.ae604d9c.chunk.js.map",
     "static/js/3.a64233a7.chunk.js": "/Mint/static/js/3.a64233a7.chunk.js",
     "static/js/3.a64233a7.chunk.js.map": "/Mint/static/js/3.a64233a7.chunk.js.map",
     "index.html": "/Mint/index.html",
     "static/css/main.bad0f2f2.chunk.css.map": "/Mint/static/css/main.bad0f2f2.chunk.css.map",
-    "static/js/2.daa53319.chunk.js.LICENSE.txt": "/Mint/static/js/2.daa53319.chunk.js.LICENSE.txt",
+    "static/js/2.ae604d9c.chunk.js.LICENSE.txt": "/Mint/static/js/2.ae604d9c.chunk.js.LICENSE.txt",
     "static/media/1.9714bf67.png": "/Mint/static/media/1.9714bf67.png",
     "static/media/reset.css": "/Mint/static/media/WHITRABT.4bc81110.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.f9ffe72e.js",
-    "static/js/2.daa53319.chunk.js",
+    "static/js/2.ae604d9c.chunk.js",
     "static/css/main.bad0f2f2.chunk.css",
-    "static/js/main.99677b56.chunk.js"
+    "static/js/main.4f358951.chunk.js"
   ]
 }
