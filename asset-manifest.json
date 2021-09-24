@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mint/static/css/main.9fcda60c.chunk.css",
+    "main.css": "/Mint/static/css/main.46bf4c6e.chunk.css",
     "main.js": "/Mint/static/js/main.813c7a55.chunk.js",
     "main.js.map": "/Mint/static/js/main.813c7a55.chunk.js.map",
     "runtime-main.js": "/Mint/static/js/runtime-main.f9ffe72e.js",
@@ -10,7 +10,7 @@
     "static/js/3.a64233a7.chunk.js": "/Mint/static/js/3.a64233a7.chunk.js",
     "static/js/3.a64233a7.chunk.js.map": "/Mint/static/js/3.a64233a7.chunk.js.map",
     "index.html": "/Mint/index.html",
-    "static/css/main.9fcda60c.chunk.css.map": "/Mint/static/css/main.9fcda60c.chunk.css.map",
+    "static/css/main.46bf4c6e.chunk.css.map": "/Mint/static/css/main.46bf4c6e.chunk.css.map",
     "static/js/2.ae604d9c.chunk.js.LICENSE.txt": "/Mint/static/js/2.ae604d9c.chunk.js.LICENSE.txt",
     "static/media/1.9714bf67.png": "/Mint/static/media/1.9714bf67.png",
     "static/media/reset.css": "/Mint/static/media/WHITRABT.4bc81110.TTF"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9ffe72e.js",
     "static/js/2.ae604d9c.chunk.js",
-    "static/css/main.9fcda60c.chunk.css",
+    "static/css/main.46bf4c6e.chunk.css",
     "static/js/main.813c7a55.chunk.js"
   ]
 }
