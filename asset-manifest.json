@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Paint/static/css/main.32b7e110.chunk.css",
-    "main.js": "/Paint/static/js/main.a100323e.chunk.js",
-    "main.js.map": "/Paint/static/js/main.a100323e.chunk.js.map",
-    "runtime-main.js": "/Paint/static/js/runtime-main.21b2ff99.js",
-    "runtime-main.js.map": "/Paint/static/js/runtime-main.21b2ff99.js.map",
-    "static/js/2.873844f1.chunk.js": "/Paint/static/js/2.873844f1.chunk.js",
-    "static/js/2.873844f1.chunk.js.map": "/Paint/static/js/2.873844f1.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/Paint/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/Paint/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/Paint/index.html",
-    "static/css/main.32b7e110.chunk.css.map": "/Paint/static/css/main.32b7e110.chunk.css.map",
-    "static/js/2.873844f1.chunk.js.LICENSE.txt": "/Paint/static/js/2.873844f1.chunk.js.LICENSE.txt",
-    "static/media/1.9714bf67.png": "/Paint/static/media/1.9714bf67.png",
-    "static/media/reset.css": "/Paint/static/media/WHITRABT.4bc81110.TTF"
+    "main.css": "/Mint/static/css/main.bad0f2f2.chunk.css",
+    "main.js": "/Mint/static/js/main.a100323e.chunk.js",
+    "main.js.map": "/Mint/static/js/main.a100323e.chunk.js.map",
+    "runtime-main.js": "/Mint/static/js/runtime-main.f9ffe72e.js",
+    "runtime-main.js.map": "/Mint/static/js/runtime-main.f9ffe72e.js.map",
+    "static/js/2.ae604d9c.chunk.js": "/Mint/static/js/2.ae604d9c.chunk.js",
+    "static/js/2.ae604d9c.chunk.js.map": "/Mint/static/js/2.ae604d9c.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/Mint/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/Mint/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/Mint/index.html",
+    "static/css/main.bad0f2f2.chunk.css.map": "/Mint/static/css/main.bad0f2f2.chunk.css.map",
+    "static/js/2.ae604d9c.chunk.js.LICENSE.txt": "/Mint/static/js/2.ae604d9c.chunk.js.LICENSE.txt",
+    "static/media/1.9714bf67.png": "/Mint/static/media/1.9714bf67.png",
+    "static/media/reset.css": "/Mint/static/media/WHITRABT.4bc81110.TTF"
   },
   "entrypoints": [
-    "static/js/runtime-main.21b2ff99.js",
-    "static/js/2.873844f1.chunk.js",
-    "static/css/main.32b7e110.chunk.css",
+    "static/js/runtime-main.f9ffe72e.js",
+    "static/js/2.ae604d9c.chunk.js",
+    "static/css/main.bad0f2f2.chunk.css",
     "static/js/main.a100323e.chunk.js"
   ]
 }
